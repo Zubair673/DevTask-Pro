@@ -106,6 +106,19 @@ https://devtask-backend-97oz.onrender.com/
 ```
 
 ---
+## GitHub
+
+### 🌐 Frontend
+
+```
+https://github.com/Zubair673/DevTask
+```
+
+### ⚙️ Backend
+
+```
+https://devtask-backend-97oz.onrender.com/
+```
 
 ## 📂 Folder Structure
 
@@ -133,7 +146,7 @@ DevTask
 Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/DevTask.git
+git clone https://github.com/Zubair673/DevTask.git
 ```
 
 Go to project folder
