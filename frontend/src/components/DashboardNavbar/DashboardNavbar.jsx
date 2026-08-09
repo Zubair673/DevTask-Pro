@@ -14,6 +14,7 @@ function DashboardNavbar() {
   const navLinks = [
     { name: "Dashboard", path: "/dashboard" },
     { name: "Add Task", path: "/add-task" },
+    { name: "Projects", path: "/projects" },
     { name: "Profile", path: "/profile" },
   ];
 

@@ -18,6 +18,8 @@ import EditTask from "./pages/EditTask/EditTask";
 // Profile
 import Profile from "./pages/Profile/Profile";
 
+// projects
+import Projects from "./pages/Projects/Projects";
 // Protected Route
 import ProtectedRoute from "./components/ProtectedRoute";
 
@@ -88,6 +90,14 @@ function App() {
         }
       />
 
+<Route
+  path="/projects"
+  element={
+    <ProtectedRoute>
+      <Projects />
+    </ProtectedRoute>
+  }
+/>
       {/* ================= Add Task ================= */}
 
       <Route
