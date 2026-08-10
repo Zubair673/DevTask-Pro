@@ -109,17 +109,7 @@ https://devtask-pro-4noh.onrender.com
 
 ## GitHub
 
-### 🌐 Frontend
-
-```
-https://github.com/Zubair673/DevTask
-```
-
-### ⚙️ Backend
-
-```
-https://github.com/Zubair673/DevTask-Backend
-```
+https://github.com/Zubair673/DevTask-Pro
 
 ## 📂 Folder Structure
 
@@ -147,13 +137,13 @@ DevTask
 Clone the repository
 
 ```bash
-git clone https://github.com/Zubair673/DevTask.git
+git clone https://github.com/Zubair673/DevTask-Pro.git
 ```
 
 Go to project folder
 
 ```bash
-cd DevTask
+cd DevTask-Pro
 ```
 
 Install dependencies
@@ -173,14 +163,6 @@ npm run dev
 ## 🔐 Environment Variables
 
 Created a `.env` file.
-
-Example
-
-```env
-VITE_API_URL=https://your-backend-url.onrender.com/api
-```
-
----
 
 ## 🚀 Deployment
 
