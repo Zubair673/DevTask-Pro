@@ -96,7 +96,7 @@ The application allows users to securely register, log in, manage their personal
 ### 🌐 Frontend
 
 ```
-https://dev-task-livid-eight.vercel.app/
+https://dev-task-pro.vercel.app/
 ```
 
 ### ⚙️ Backend API
