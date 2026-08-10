@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const API = axios.create({
-  baseURL: "http://localhost:5000/api",
+  baseURL: "http://https://devtask-pro-4noh.onrender.com//api",
 });
 // ===============================
 // Request Interceptor
